@@ -1,2 +1,2 @@
 # AWS-Deepracer
-Udacity AWS Deepracer scholarship
+Udacity AWS Deepracer
